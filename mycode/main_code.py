@@ -90,3 +90,4 @@ with open(metrics_path, "w") as f:
     f.write("\\end{tabular}\n")
 
 print(f"Experiment completed. Compressed images saved in '{comp_folder}'. Metrics saved in '{metrics_path}'.")
+
