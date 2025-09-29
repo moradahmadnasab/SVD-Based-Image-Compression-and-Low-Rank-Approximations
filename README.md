@@ -41,24 +41,32 @@ This approach allows **efficient storage** while maintaining visual quality.
     alt="SVD k10 Image Approximation" 
     title="Rank k=10">
 </p>
+<p align="center"><em>Rank k=10</em></p>
+
 
 <p align="center">
   <img src="figures/svd_k20.png" width="600" 
     alt="SVD k20 Image Approximation" 
     title="Rank k=20">
 </p>
+<p align="center"><em>Rank k=20</em></p>
+
 
 <p align="center">
   <img src="figures/svd_k50.png" width="600" 
     alt="SVD k50 Image Approximation" 
     title="Rank k=50">
 </p>
+<p align="center"><em>Rank k=50</em></p>
+
 
 <p align="center">
   <img src="figures/svd_k100.png" width="600" 
     alt="SVD k100 Image Approximation" 
     title="Rank k=100">
 </p>
+<p align="center"><em>Rank k=100</em></p>
+
 
 
 
