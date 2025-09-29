@@ -34,7 +34,7 @@ This approach allows **efficient storage** while maintaining visual quality.
     alt="Original color picture" 
     title="Full Rank">
 </p>
-<p align="center"><em>Rank k=50, PSNR=30.12 dB, CR=8.5</em></p>
+<p align="center"><em>Full Rank</em></p>
 
 <p align="center">
   <img src="figures/svd_k10.png" width="600" 
