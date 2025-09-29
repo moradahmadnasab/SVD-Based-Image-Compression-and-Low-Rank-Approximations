@@ -30,7 +30,7 @@ This approach allows **efficient storage** while maintaining visual quality.
 
 ## 📊 Example Figures
 <p align="center">
-  <img src="results/compressed/original.png" width="600" alt="Original color picture">
+  <img src="figures/original.png" width="600" alt="Original color picture">
 </p>
 
 <p align="center">
