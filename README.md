@@ -30,23 +30,33 @@ This approach allows **efficient storage** while maintaining visual quality.
 
 ## 📊 Example Figures
 <p align="center">
-  <img src="figures/original.png" width="600" alt="Original color picture" title="Full Rank">
+  <img src="figures/original.png" width="600"
+    alt="Original color picture" 
+    title="Full Rank">
 </p>
 
 <p align="center">
-  <img src="figures/svd_k10.png" width="600" alt="SVD k10 Image Approximation" title="Rank k=10">
+  <img src="figures/svd_k10.png" width="600" 
+    alt="SVD k10 Image Approximation" 
+    title="Rank k=10">
 </p>
 
 <p align="center">
-  <img src="figures/svd_k20.png" width="600" alt="SVD k20 Image Approximation" title="Rank k=20">
+  <img src="figures/svd_k20.png" width="600" 
+    alt="SVD k20 Image Approximation" 
+    title="Rank k=20">
 </p>
 
 <p align="center">
-  <img src="figures/svd_k50.png" width="600" alt="SVD k50 Image Approximation" title="Rank k=50">
+  <img src="figures/svd_k50.png" width="600" 
+    alt="SVD k50 Image Approximation" 
+    title="Rank k=50">
 </p>
 
 <p align="center">
-  <img src="figures/svd_k100.png" width="600" alt="SVD k100 Image Approximation" title="Rank k=100">
+  <img src="figures/svd_k100.png" width="600" 
+    alt="SVD k100 Image Approximation" 
+    title="Rank k=100">
 </p>
 
 
