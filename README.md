@@ -34,19 +34,19 @@ This approach allows **efficient storage** while maintaining visual quality.
 </p>
 
 <p align="center">
-  <img src="results/compressed/svd_k10.png" width="600" alt="SVD k10 Image Approximation">
+  <img src="figures/svd_k10.png" width="600" alt="SVD k10 Image Approximation">
 </p>
 
 <p align="center">
-  <img src="results/compressed/svd_k20.png" width="600" alt="SVD k20 Image Approximation">
+  <img src="figures/svd_k20.png" width="600" alt="SVD k20 Image Approximation">
 </p>
 
 <p align="center">
-  <img src="results/compressed/svd_k50.png" width="600" alt="SVD k50 Image Approximation">
+  <img src="figures/svd_k50.png" width="600" alt="SVD k50 Image Approximation">
 </p>
 
 <p align="center">
-  <img src="results/compressed/svd_k100.png" width="600" alt="SVD k100 Image Approximation">
+  <img src="figures/svd_k100.png" width="600" alt="SVD k100 Image Approximation">
 </p>
 
 
