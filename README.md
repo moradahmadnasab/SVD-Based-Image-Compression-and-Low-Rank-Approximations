@@ -30,12 +30,26 @@ This approach allows **efficient storage** while maintaining visual quality.
 
 ## 📊 Example Figures
 <p align="center">
-  <img src="results/compressed/color_k50.png" width="600" alt="Color Image Approximation">
+  <img src="results/compressed/original.png" width="600" alt="Original color picture">
 </p>
 
 <p align="center">
-  <img src="results/compressed/gray_k50.png" width="600" alt="Grayscale Image Approximation">
+  <img src="results/compressed/svd_k10.png" width="600" alt="SVD k10 Image Approximation">
 </p>
+
+<p align="center">
+  <img src="results/compressed/svd_k20.png" width="600" alt="SVD k20 Image Approximation">
+</p>
+
+<p align="center">
+  <img src="results/compressed/svd_k50.png" width="600" alt="SVD k50 Image Approximation">
+</p>
+
+<p align="center">
+  <img src="results/compressed/svd_k100.png" width="600" alt="SVD k100 Image Approximation">
+</p>
+
+
 
 *The figures show rank-50 approximations for color and grayscale versions of the same image.*
 
