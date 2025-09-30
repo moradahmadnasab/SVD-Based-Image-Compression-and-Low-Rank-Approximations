@@ -70,7 +70,6 @@ This approach allows **efficient storage** while maintaining visual quality.
 
 
 
-*The figures show rank-50 approximations for color and grayscale versions of the same image.*
 
 ---
 
